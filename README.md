@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Mohammad Labadi
-- 👀 I’m interested in AI and web development.
+- 👀 I’m interested in web development.
 - 🌱 I’m currently learning Java and data structures.
-- 💞️ I’m looking to collaborate on making websites.
+- 💞️ I’m looking to collaborate.
 - 📫 How to reach me 
 -     LinkedIn: mohammad-allabadi
 -     Email:    allabadimohammad@outlook.com
