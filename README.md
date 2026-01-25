@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Mohammad Labadi
 - 👀 I’m interested in web development.
-- 🌱 I’m currently learning about design of Algorithms
-- 💞️ I’m looking to collaborate.
+- 🌱 I’m currently doing an M.Eng in Computer science
 - 📫 How to reach me 
 -     LinkedIn: mohammad-allabadi
 -     Email:    allabadimohammad@outlook.com
